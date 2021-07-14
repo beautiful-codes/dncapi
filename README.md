@@ -22,3 +22,4 @@ https://www.blogofpi.com/policy-based-authorization-in-asp-net-core/
 ### Please follow below Document to Register and SPA application either Angular with MSAL
 
 https://github.com/Azure-Samples/ms-identity-javascript-angular-tutorial/blob/main/3-Authorization-II/1-call-api/README.md
+https://docs.microsoft.com/en-us/azure/active-directory/develop/sample-v2-code
